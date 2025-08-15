@@ -100,7 +100,7 @@ Ces indicateurs ont permis de comparer les performances entre campagnes et plate
 
 Une présentation synthétique a été créée pour partager les résultats avec les parties prenantes non techniques.  
 
-📄 [Cliquez ici pour consulter la présentation]()
+📄 [Cliquez ici pour consulter la présentation](https://docs.google.com/presentation/d/1PRrTuGGbtnBfanSJQSetKWFspXdIpEfC/edit?usp=sharing&ouid=108266455663077936458&rtpof=true&sd=true)
 
 ---
 
